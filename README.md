@@ -3,7 +3,7 @@
 - 🔭 Graduanda em ADS, 3° Período
 - 🌱 Estudando Java
 - 👯 Inglês intermediário 
-- 🤔 Linguagens já praticadas: HTML, CSS, C;
+- 🤔 Linguagens já praticadas: HTML, CSS, JavaScript, C;
 - 💬 Email para contato: felicia.anna@academico.ifpb.edu.br
 - 😄 Pronomes: Ela/Dela
 <div>
