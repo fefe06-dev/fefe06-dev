@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🔭 Graduanda em ADS, 3° Período
+- 🔭 Graduanda em ADS, 4° Período
 - 🌱 Estudando Java
 - 👯 Inglês intermediário 
 - 🤔 Linguagens já praticadas: HTML, CSS, JavaScript, C;
